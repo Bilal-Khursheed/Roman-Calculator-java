@@ -1,8 +1,9 @@
 # Roman-Calculator-java
 
 
-#Task: Calculator program
-#Description:
+# Task: Calculator program
+
+# Description:
 Create a console application "Calculator".
 The application should read from the console the arithmetic operations entered by the user and display the result of their execution in the console.
 
